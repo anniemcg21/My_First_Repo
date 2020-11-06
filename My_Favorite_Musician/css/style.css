@@ -1,0 +1,31 @@
+h1 {
+    color: purple;
+    font-family: "roboto", "open sans", sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+li {
+    color: blue;
+}
+html {
+    background-color: rgb(228, 228, 228);
+}
+img {
+    height: 400px;
+    width: 600px;
+    padding-left: 50px;
+}
+li {
+    font-family: "roboto", "open sans", sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    margin-left: 40px;
+}
+p {
+    font-family: "roboto", "open sans", sans-serif;
+    font-size: 16px;
+    font-weight: 50;
+    padding-left: 15px;
+    padding-bottom: 100px;
+} 
