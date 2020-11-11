@@ -1,0 +1,48 @@
+nav {
+    height: 50px;
+    background-color: lightgray;
+}
+
+.header_element {
+    display: inline-block;
+    padding: 15px;
+    background-color: rgb(75, 74, 74);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    text-align: center;
+}
+
+.left_parent {
+    width: 30%;
+    height: 800px;
+    float: left;
+}
+
+.right_parent {
+    width: 70%;
+    height: 800px;
+    float: right;
+    background-color: teal;
+}
+
+.left_child1 {
+    width: 100%;
+    height: 250px;
+    background-color: orange;
+}
+
+.left_child2 {
+    width: 100%;
+    height: 550px;
+    background-color: darkorange;
+}
+
+.image {
+    float: left;
+    padding: 30px;
+}
+
+.inline {
+    display: inline;
+}
